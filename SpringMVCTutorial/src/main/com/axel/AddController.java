@@ -9,6 +9,7 @@ public class AddController {
 	@RequestMapping("/add")
 	public void add() {
 		System.out.println("I am here");
+		//return "display.jsp"
 	}
 
 }
